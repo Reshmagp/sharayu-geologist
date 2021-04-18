@@ -1,1 +1,2 @@
-# sharayu-geologist
+# Geologist
+Geologist Project
